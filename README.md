@@ -1,6 +1,6 @@
 # hello-world
 
-The garbage man is here, collecitng the garbage and recycling.
+The garbage man is here collecting the garbage and recycling.
 
 I like Pie.  Pie > Cake
 
